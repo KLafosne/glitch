@@ -10,7 +10,7 @@ var fs = require("fs");
 var path = require("path");
 
 app.get("/", (req, res) => {
-  res.send("hello wolrd");
+  res.send("AFOSNE PROXY");
 });
 
 //获取系统进程表
